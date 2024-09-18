@@ -20,3 +20,24 @@ python -m venv venv
 ```bash
 venv\Scripts\activate
 ```
+
+- for macOS/Linux
+```bash
+source venv/bin/activate
+```
+
+### 3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 4. 
+- run script to claim faucet
+```bash
+python faucet_bot.py
+```
+
+- run script to swap faucet token into IP
+```bash
+python swap_to_ip.py
+```
