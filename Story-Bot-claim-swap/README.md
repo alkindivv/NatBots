@@ -1,17 +1,17 @@
-# create virtual environment
+# Project Name
+
+This project is designed to [claim faucet and swap tokens into IP tokens].
+
+## Prerequisites
+
+- Python 3.x
+- `pip` (Python package installer)
+
+## Setup Instructions
+
+### 1. Create a Virtual Environment
+
+To isolate the project dependencies, create a virtual environment:
+
+```bash
 python -m venv venv
-
-# for windows
-venv\Scripts\activate # for windows
-
-# for macOS/Linux
-source venv/bin/activate
-
-# install requirements
-pip install -r requirements.txt
-
-# run scipts for claiming faucet
-python faucet_bot.py
-
-# run scipts for swap faucet into IP token
-python swap_to_ip.py
