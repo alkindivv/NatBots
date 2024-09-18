@@ -2,8 +2,13 @@
 
 ## Prerequisites
 
-- Python 3.x
-- `pip` (Python package installer)
+- **Python 3.x**
+- **`pip`** (Python package installer)
+
+## Features
+
+- **Claim Faucet**: Automatically claim faucet.
+- **Swap Faucet to IP token**: Automatically swap faucet tokens into $IP
 
 ## Setup Instructions
 
