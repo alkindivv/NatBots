@@ -15,7 +15,7 @@ To isolate the project dependencies, create a virtual environment:
 python -m venv venv
 ```
 
-### 2. Activate the Virtual Environment
+**2. Activate the Virtual Environment**
 - for windows
 ```bash
 venv\Scripts\activate
@@ -26,12 +26,12 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install Requirements
+**3. Install Requirements**
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Usage
+**4. Usage**
 - run script to claim faucet
 ```bash
 python faucet_bot.py
