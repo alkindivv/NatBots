@@ -13,3 +13,10 @@ To isolate the project dependencies, create a virtual environment:
 
 ```bash
 python -m venv venv
+```
+
+### 2. Activate the Virtual Environment
+- for windows
+```bash
+venv\Scripts\activate
+```
