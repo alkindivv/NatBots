@@ -54,4 +54,4 @@ Contributions are always welcome. Please make a pull request or open an issue fo
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+see [LICENSE](LICENSE) for the details
