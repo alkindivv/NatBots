@@ -44,7 +44,7 @@ python swap_to_ip.py
 
 ## Warning
 
-- Ensure you have sufficient CKB balance for gas fees.
+- Ensure you have sufficient IP balance for gas fees.
 - Never share your private keys.
 - Use this bot at your own risk.
 
