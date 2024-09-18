@@ -1,6 +1,4 @@
-# Project Name
-
-This project is designed to [claim faucet and swap tokens into IP tokens].
+# This project is designed to [claim faucet and swap tokens into IP tokens].
 
 ## Prerequisites
 
