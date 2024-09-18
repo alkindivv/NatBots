@@ -7,7 +7,7 @@
 
 ## Setup Instructions
 
-** 1. Create a Virtual Environment **
+**1. Create a Virtual Environment.**
 
 To isolate the project dependencies, create a virtual environment:
 
