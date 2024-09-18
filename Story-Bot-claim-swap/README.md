@@ -1,4 +1,4 @@
-# This project is designed to [claim faucet and swap tokens into IP tokens].
+# claim faucet and swap tokens into IP tokens.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. 
+### 4. Usage
 - run script to claim faucet
 ```bash
 python faucet_bot.py
@@ -41,3 +41,17 @@ python faucet_bot.py
 ```bash
 python swap_to_ip.py
 ```
+
+## Warning
+
+- Ensure you have sufficient CKB balance for gas fees.
+- Never share your private keys.
+- Use this bot at your own risk.
+
+## Contributing
+
+Contributions are always welcome. Please make a pull request or open an issue for suggestions and improvements.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
